@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter sent by E.B., an eminent Quaker in London, to the Pope in Rome transmitted thence by Cardinal Bromio to a person of quality in England : with a copy of the faculties granted to John Locet, Englishman and priest at Rome, 1678, for England, Scotland, and all the Kings dominions, Ireland excepted.</title>
+            <author>E. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17357</idno>
+            <idno type="STC">Wing B49</idno>
+            <idno type="EEBO-CITATION">15553883</idno>
+            <idno type="OCLC">ocm 15553883</idno>
+            <idno type="VID">206177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B17357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter sent by E.B., an eminent Quaker in London, to the Pope in Rome transmitted thence by Cardinal Bromio to a person of quality in England : with a copy of the faculties granted to John Locet, Englishman and priest at Rome, 1678, for England, Scotland, and all the Kings dominions, Ireland excepted.</title>
+                  <author>E. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:206177:1" rendition="simple:additions"/>
+            <head>A Copy of a Letter ſent by <hi>E. B.</hi> an eminent Quaker in <hi>London,</hi> to the Pope at <hi>Rome,</hi> tranſmitted thence by Cardinal <hi>Bromio</hi> to a Perſon of Quality in <hi>England.</hi>
+            </head>
+            <head type="sub">With a Copy of the Faculties granted to <hi>John Locet,</hi> Engliſhman and Prieſt at <hi>Rome,</hi> 1678. for <hi>England, Scotland,</hi> and all the Kings Domi<g ref="char:EOLhyphen"/>nions, <hi>Ireland</hi> excepted.</head>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <p>I Am moved at this time by the Spirit, to ſpeak to thee a few words, which plainly proceed from the Light within, and may prove for thy Edification and Converſion, I will not revile thee, nor call thee Antichriſt, the Whore of <hi>Babylon,</hi> the Scarlet Whore, nor the Beaſt, the Dragon or the Serpent, Titles frequently beſtowed on thee, and which if thou deſerveſt thou beſt knoweſt: But I come to thee in the Meakneſs, and the werds of Truth and Light, to ſpeak to thy Soul, as thou art a Man and pretendeſt to have Lordſhip and Dominion over both the Souls and Bodies of Men. But by what Authority doſt thou uſurpe the Title of <hi>Papa,</hi> Father of the whole Church of Chriſt? Who firſt conferred that Title on thee? Was it from above or from Men? Je<g ref="char:EOLhyphen"/>ſus when he was on Earth commanded <hi>Peter</hi> to feed his Sheep, and as a Servant to adminiſter to them, he gave him no Authority to Slaughter them, or to Flcece them, or to uſe any Tyranny to<g ref="char:EOLhyphen"/>wards them. Thou pretendeſt to ſit in <hi>Peters</hi> Seat, have a care, I warn thee, that it be not Satan's Chair, for it is very doubtful if the Man <hi>Peter</hi> was ever at <hi>Rome,</hi> and it is for certain never had any Authority there, and was neither Lord, Maſter or Pope, but a Servant to the Servants of Jeſus Chriſt, which Title thou alſo owneſt in Words, when in Deeds thou art proud as <hi>Lucifer,</hi> and wouldeſt ſet thy Feet on the Necks of Kings and Princes, and proudly trample on the People of God. Thou pretendeſt to the Spirit, ſhow it by thy Works; to Infallibility, but thou haſt failed in thy Doctrine and in thy Practices. I hold with thee that the Spirit is to be the guide of the Saints, and that the Spirit is infallible and can never be miſtaken, but it is not to be confined to thee, and to thy Cardinals, for I tell thee, our Pope <hi>George Fox,</hi> hath as much of the Spirit as thou haſt, and it is as infallible, and therefore thou oughteſt not to ingroſs it to thy ſelf, ſince it is communicated to all the Children of God, and to all the Saints that obſerve and hearken to the Light within. But thou haſt done wickedly; thou and all thy Predeceſſors, for ſeveral hundreds of years, have been building a very <hi>Babel</hi> of Confuſion, thou haſt made Religion the Devils ſtalking Horſe, to drive Souls into his Snares, thou haſt ſet up the Calves at <hi>Dan,</hi> and in the Mount, thou haſt polluted Religion with Idolatry, and made of it a meer piece of Art, Pollicy, and Legerdemain, I tell thee plainly thou haſt ſet up a Pompous outward Religion, only full of Gaudy out-ſides, without any Truth or Sincerity, and without the Spirit, the Light, or the Life of God. Look therefore, I adviſe thee as a Friend, and Brother, to the Light within thee, which ſhineth in thy darkneſs, that will teach thee better things, thou canſt not but ſee and know the vanity of thy Religion, which thy Sons and thy Daugh<g ref="char:EOLhyphen"/>ters follow; and thou thy ſelf laugheſt at the Ignorance and Folly of moſt of thy Adherents and Fol<g ref="char:EOLhyphen"/>lowers, who zealouſly follow thy Dictates without ſight or knowledge. Thou acteſt againſt thy own Conſcience, and againſt Knowledge, and againſt Light, which is the Sin againſt the Holy Spi<g ref="char:EOLhyphen"/>rit, and for this thou ſhalt be condemned, unleſs thou timely repent thee of, and reform thy Errors. It is to maintain thy Pride, thy Luſt, and thy Covetouſneſs, that thou ſtriveſt to kick againſt the Pricks, and to eſtabliſh thy Abominations in the ſight of the <hi>Iſrael</hi> of God; but the day will come, and is even at hand, that thou and thy <hi>Iſmaelites,</hi> which are become the Sons of the Bond-woman of Sin, that he caſt out into utter Perdition. Thou and thy gor-bellied Cardinals, that live like Princes, and fatten themſelves up in their abominable Luſts, againſt the day of Slaughter, are very unlike the Apoſtles and Diſciples of Chriſt, who taught and preach'd the Word with Pains Care and Travel, in meekneſs and Poverty from the true Light and Spirit ſhining within their Souls; and were the Primi<g ref="char:EOLhyphen"/>tive Chriſtians on Earth again, to ſee the Shop of confuſion, thou and thy Hierarchy have made out of their ſimple ſpun thred, they would not be able to know or believe this to be any part of the Religion they taught or begun, with ſo great Labour, Travel, Pains, and Martyrdom. Thus haſt thou made all their Labours of little or no effect; and ſtill takeſt care to keep poor Souls in the Snares of ſin, and in the bonds of Ignorance. I tell thee plainly, thy Conſcience does witneſs againſt thee, and thou doſt fee theſe Truths, but it is thy Pride that makes thee Tyrant like to exerciſe Lordſhip and Dominion over others, and to maintain this Lordſhip and Tyranny, thou art fain to exerciſe cunning Arts and pollicies of the Carnal man, and even to fly to the ſubtilties of the Serpent, and the wicked one, lea<g ref="char:EOLhyphen"/>ving no ſtone unturned to maintain thy Vanity and to fulfil thy Luſts. Thou knoweſt well enough there is no Purgatory, ſuch as thou haſt invented to affright and delude poor ignorant people out of their mony, but the execrable gain which thou makeſt by Indulgencies will not let thee Reform that wicked and abominable Error. Thou alſo knoweſt the Vanity of praying to Saints, and to carved Idols, expreſs againſt the Word of God.</p>
+            <pb facs="tcp:206177:2" rendition="simple:additions"/>
+            <p>Yet becauſe of the Gain and Reputation theſe bring to thee, and the means to delude the ignorant, by falſe Miracles, and pretended Reliques, thou ſtill keepeſt it a Foot with all thy ridiculous Shews, Proccſſions, Jubilies, Holy-water, Exorciſms, Altars, Copes, Miters, Croſiers, Surplices and other Trinkets, invented by the Devil and his Inſtrument, the vain mind of ſubtle Man, to draw the Eyes and Ears, but not the Hearts of the Calviſh Multitude, who bleat after theſe things, and underſtand them not. Thou knoweſt the unnaturalneſs and impoſſibility of thy breaden Gods real Preſence, and yet for the great reſpect it begets to thee and thy Prieſts, with the Rabble of Moncks, Friers, Nuns, Ere<g ref="char:EOLhyphen"/>mits and ſuch like; thou ſtill moſt ſtifly againſt Religion, Sence and Reaſon, maintaineſt that idle Opinion. Think therefore before it be too late, of Repentance and Reformation: do the work thorowly. The Light hath formerly ſhined, with ſome glimmering in the times of the <hi>Albingenſes</hi> in <hi>France,</hi> and of <hi>Wickliff</hi> in <hi>England,</hi> and of <hi>Jerom</hi> and <hi>Huff</hi> in <hi>Pragne,</hi> and afterwards of <hi>Luther</hi> in <hi>Germany;</hi> they cauſed ſome Reformaiion from the groſeſt of thy ſuperſtition and filthineſs of Idolatry: but yet too much of the Dregs remains, and the Carnal minded man yet retains much of thy Pride, Vanity, Pomp and Shew in their outward Worſhip; and much of thy ambitious Lordſhip and Domi<g ref="char:EOLhyphen"/>nion; but we the ſimple and harmleſs Sheep of Gods Fold, called by the People in ſcorn, Quakers and Shakers, from the ſtrong actuating of the Spirit within, have reformed our ſelves to the Pattern of the Apoſtles and Primitive Teachers and Preachers, and being filled with the Spirit, ſpeak from the Light thereof. And from this Light I now plainly write to thee, being ſtirred up to warn thee of the VVrath to come, and to tell thee, that unleſs thou makeſt a thorow Reformation, according to our Holy Pattern, and come into the Community of the Saints on Earth, thou ſhalt never have Communi<g ref="char:EOLhyphen"/>on with thoſe in Heaven. I am to denounce Judgment againſt thee, and thou ſhalt be overthrown, and thou ſhalt be ſcourged for thy abominable Practiſes againſt the People of <hi>England,</hi> in the Plotings, underminings, Murthers and wicked Contrivances of thy Ban-Dogs that call themſelves Jeſuites, but are Judaſſes, that betray Kingdoms and wurry the People. Thy time is but ſhort, and thy Reign of a few days; for either the King of <hi>France</hi> if ever he gets the Monarchy of the Weſt, will unneſt thee, and remove thy Sea to <hi>Paris,</hi> and have a Pope of his own, or elſe God will let looſe the Rage of the Turk againſt thee, and ſuffer him to plant his Half-moons in <hi>Rome</hi> as well as in <hi>Jeruſalem,</hi> for a ſcourge and Vengeance of all the filthineſs and Abominations acted in that ploce. Look to it, I give thee this friendly warning, take it to heart, for I tell it thee in plainneſs and ſincerity and from the Light, which ſhineth in</p>
+            <closer>
+               <signed>Thy Friend in the Love and in the Truth. <hi>E. B.</hi>
+               </signed>
+               <dateline>From <hi>London,</hi> 
+                  <date>the 7th day of the 4th Month, in the year 1679.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_ecclesiastical_privileges">
+            <head>Faculties granted at <hi>Rome, 1678.</hi> to <hi>John Locet</hi> Engliſhman and Prieſt for <hi>England</hi> and <hi>Scotland,</hi> and for all the Kings Dominions excepting <hi>Ireland.</hi>
+            </head>
+            <list>
+               <item>1. Power to abſolve from Hereſie and Apoſtacy, all both Eccleſiaſticks and Laicks.</item>
+               <item>2. To abſolve in all Caſes of the <hi>Bulla Caenae.</hi>
+               </item>
+               <item>3. Power of diſpenſing Marriages within the 3d and 4th Degree of Conſanguinity and Affinity, and to declare them Lawful, and ſuch Iſſue Legitimate.</item>
+               <item>4. Power of adminiſtring all the Sacraments.</item>
+               <item>5. Power of reſtoring the juſt Right of asking being loſt.</item>
+               <item>6. Power of Celebrating Maſs in all decent places above or under Ground, on Portable Altars twice a day if neceſſary<g ref="char:punc">▪</g> and if it cannot be otherways Celebrated for fear of Hereticks.</item>
+               <item>7. Of laying up of Holy things in ſecret, without Lights if there be danger.</item>
+               <item>8. Power of reciting the Roſary or other Prayers if they cannot have a Brevary or other Office.</item>
+               <item>9. Power of keeping and reading any Prohibited Books beſides thoſe contained in the <hi>Bulla Coena,</hi> beſides thoſe of <hi>Charles Moline, Nicholas Machivel,</hi> and Books of Judicial Aſtrology. Alſo of gi<g ref="char:EOLhyphen"/>ving Licence to others to read the Scriptures faithfully tranflated into Engliſh, and to the Laicks En<g ref="char:EOLhyphen"/>gliſh Books ogainſt Heretick, as need ſhall be.</item>
+               <item>10. Power of diſpenſing and communicating ſimple Vows for a reaſonable cauſe, that of Chaſtity and of Religion being excepted.</item>
+               <item>11. Power of bleſſing the Sacraments and other Holy Utenſils neceſſary for the Maſs where there is not Unction.</item>
+               <item>12. Power of Diſpenſing the eating of Fleſh, Eggs' white-meats alſo in the time of Lent.</item>
+               <item>13. Power of granting a Plenary Indulgence for thoſe Converted from Herefie, and to thoſe who cannot be confeſſed in the Article of Death.</item>
+               <item>14. Power of granting every Lords day, and on Holy days an Indulgence for 10 years to thoſe that aſſiſt at thoſe Meetings, and a plenary Indulgence to thoſe that confeſs and receive the Sacrament on certain Feaſt-days.</item>
+               <item>15. Power of having the Benefit of theſe Indulgencies themſelves.</item>
+               <item>16. Power of Celebrating the Maſs <hi>de Requiem</hi> for any one on a portable Altar for the freeing a Soul out of Purgatory.</item>
+            </list>
+            <p>They were granted for 7 years only, and reverſable without ſhewing Cauſe, at the will of the Pope.</p>
+            <closer>
+               <signed>ſigned,
+<list>
+                     <item>
+                        <hi>Barbarine</hi> Proctor.</item>
+                     <item>Chr. <hi>Abbas Blancus</hi> Secretary.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
